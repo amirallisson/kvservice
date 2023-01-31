@@ -1,4 +1,4 @@
-# COS418 Assignment 5: Key-Value Storage Service
+#Key-Value Storage Service
 
 <h2>Introduction</h2>
 
