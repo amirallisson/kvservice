@@ -39,6 +39,8 @@
 
 
 <p>
+src/client.go contains the implementation of the client API for interacting with the server.
+src/server.go contains the implementation of the server functionality.
  To test the service, run the following command:
 <pre>
 $ go test -v
